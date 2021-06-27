@@ -1,5 +1,5 @@
 /**
- * Created by aarnavjindal on 07/05/20.
+ * Created by RajatRoy on 07/05/20.
  */
 
 export { Trie }
@@ -25,10 +25,10 @@ class Trie {
         this.current = this.root;
 
         let init = [
-            ["Aarnav", "123456"],
-            ["Akul", "123546"],
-            ["Shriya", "123654"],
-            ["Prateek", "123465"]
+            ["Ishan", "123456"],
+            ["Rajat", "123546"],
+            ["Bipin", "123654"],
+            ["Soumyadeep", "123465"]
         ];
 
         for(let i=0;i<init.length;i++){
